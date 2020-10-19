@@ -23,7 +23,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 <img src="https://i.imgur.com/zjomDJS.gif" width=250><br>
 
 ### iPad Walkthrough GIF
-<img src="https://i.imgur.com/5iUCBU1.gif" width=250><br>
+<img src="https://i.imgur.com/OsCSXRH.gif" width=250><br>
 
 ### Notes
 A challenge I encountered was trying to change to auto layout.
