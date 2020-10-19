@@ -16,26 +16,16 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
+### iPhone App Walkthrough GIF
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 ![](https://i.imgur.com/zjomDJS.gif)
 
+### iPad Walkthrough GIF
+<img src="YOUR_GIF_URL_HERE" width=250><br>
+![](https://i.imgur.com/5iUCBU1.gif)
+
 ### Notes
-
-### License
-Copyright [2020] [Yaxin Liu]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+A challenge I encountered was trying to change to auto layout.
