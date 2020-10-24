@@ -135,13 +135,14 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Qp5-EZ-976">
-                                                    <rect key="frame" x="0.0" y="0.0" width="207" height="248"/>
-                                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                    <rect key="frame" x="-1" y="0.0" width="207" height="248"/>
+                                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 </imageView>
                                             </subviews>
                                         </view>
                                         <connections>
                                             <outlet property="posterView" destination="Qp5-EZ-976" id="FaQ-tr-O4W"/>
+                                            <segue destination="Uwa-XB-lMQ" kind="show" id="quD-Li-op9"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -261,4 +262,7 @@
         <image name="now_playing_tabbar_item" width="21" height="21"/>
         <image name="superhero_tabbar_item" width="21" height="23"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="quD-Li-op9"/>
+    </inferredMetricsTieBreakers>
 </document>

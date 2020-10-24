@@ -20,7 +20,7 @@ class MovieDetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         // Do any additional setup after loading the view.
         titleLabel.text = movie["title"] as? String
         titleLabel.sizeToFit()
@@ -39,7 +39,7 @@ class MovieDetailViewController: UIViewController {
         
         backdropView.af_setImage(withURL: backdropUrl!)
     }
-    
+
 
     /*
     // MARK: - Navigation
